@@ -1,0 +1,13 @@
+Go over lessons practicing DS learned from blog post notes.
+
+Visualize the decision boundary changing as a perceptron learns. Show the data point examined and how it impacts the line visually (1D data)
+
+Teach Linear Regression first, using the simple 1D formula. Talk about correlations and how you can’t learn a non-linear relationship with a single straight-line, but you can if you partition the x’s into regions -> Decision Trees. Then teach knn and Logistic Regression.
+
+
+Talk about:
+
+Correlation vs Causation. How to tease out cause from effect.
+Controlled Experimentation.
+Repeatable experiments (show PhD files).
+Lessons learned in the field (blog post entry)
